@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 </br>
   
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=ffffff)](mailto:alwls2338@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alwls2338@gmail.com)](mailto:alwls2338@gmail.com)
 
 </br>
 </br>
