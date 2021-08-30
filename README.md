@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Mijin&fontSize=90)
 ### Hi there 👋
 
 <!--
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=00B0B9&height=300&section=header&text=Lee%20Mijin&fontSize=90)
