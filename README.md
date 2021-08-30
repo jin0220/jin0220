@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=250&section=header&text=Lee%20Mijin&fontSize=70&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A3DCBE&height=200&section=header&text=Hello,%20I'm%20Mijin%20&fontSize=40&fontColor=555555)
 
 <!--
 **jin0220/jin0220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
