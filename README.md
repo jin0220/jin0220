@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-## :four_leaf_clover:   Stack   :four_leaf_clover:
+## :four_leaf_clover:   Tech Stack   :four_leaf_clover:
   
 </br>
   
