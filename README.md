@@ -22,15 +22,17 @@ Here are some ideas to get you started:
 </br>
   
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=ffffff)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=ffffff)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=ffffff)  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=ffffff)
 
 </br>
 </br>
